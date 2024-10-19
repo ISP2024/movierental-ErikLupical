@@ -1,5 +1,4 @@
 from rental import Rental
-from movie import Movie
 
 class Customer:
     """A customer who rents movies.
